@@ -1,0 +1,12 @@
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.deps.json
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.json
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.dev.json
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csprojAssemblyReference.cache
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfoInputs.cache
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfo.cs
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/muriel_sentoff/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.genruntimeconfig.cache
